@@ -1,4 +1,3 @@
-# cosmos-sdk-security-audit
 Comprehensive security audit and bug bounty test cases for Cosmos SDK coins formatting module
 # Cosmos SDK Security Architecture
 ## Multi-Layer Defense Against Quantum & Hacker Threats
